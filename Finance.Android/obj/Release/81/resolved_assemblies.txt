@@ -2,6 +2,12 @@ E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance.Android\obj\R
 E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance.Android\obj\Release\81\android\assets\Finance.dll
 E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance.Android\obj\Release\81\android\assets\FormsViewGroup.dll
 E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance.Android\obj\Release\81\android\assets\Java.Interop.dll
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance.Android\obj\Release\81\android\assets\Microsoft.AppCenter.Analytics.Android.Bindings.dll
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance.Android\obj\Release\81\android\assets\Microsoft.AppCenter.Analytics.dll
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance.Android\obj\Release\81\android\assets\Microsoft.AppCenter.Android.Bindings.dll
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance.Android\obj\Release\81\android\assets\Microsoft.AppCenter.Crashes.Android.Bindings.dll
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance.Android\obj\Release\81\android\assets\Microsoft.AppCenter.Crashes.dll
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance.Android\obj\Release\81\android\assets\Microsoft.AppCenter.dll
 E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance.Android\obj\Release\81\android\assets\Mono.Android.dll
 E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance.Android\obj\Release\81\android\assets\mscorlib.dll
 E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance.Android\obj\Release\81\android\assets\System.Core.dll

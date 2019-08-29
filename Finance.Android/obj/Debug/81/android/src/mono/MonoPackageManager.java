@@ -109,6 +109,12 @@ class MonoPackageManager_Resources {
 		"Finance.Android.dll",
 		"Finance.dll",
 		"FormsViewGroup.dll",
+		"Microsoft.AppCenter.Analytics.Android.Bindings.dll",
+		"Microsoft.AppCenter.Analytics.dll",
+		"Microsoft.AppCenter.Android.Bindings.dll",
+		"Microsoft.AppCenter.Crashes.Android.Bindings.dll",
+		"Microsoft.AppCenter.Crashes.dll",
+		"Microsoft.AppCenter.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Runtime.dll",
@@ -135,5 +141,5 @@ class MonoPackageManager_Resources {
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_27";
+	public static final String ApiPackageName = null;
 }
