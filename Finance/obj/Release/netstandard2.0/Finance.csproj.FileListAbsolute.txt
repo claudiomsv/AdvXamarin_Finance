@@ -1,0 +1,13 @@
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance\bin\Release\netstandard2.0\Finance.deps.json
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance\bin\Release\netstandard2.0\Finance.dll
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance\bin\Release\netstandard2.0\Finance.pdb
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance\obj\Release\netstandard2.0\Finance.csprojAssemblyReference.cache
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance\obj\Release\netstandard2.0\App.xaml.g.cs
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance\obj\Release\netstandard2.0\View\MainPage.xaml.g.cs
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance\obj\Release\netstandard2.0\View\PostPage.xaml.g.cs
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance\obj\Release\netstandard2.0\Finance.csproj.CoreCompileInputs.cache
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance\obj\Release\netstandard2.0\Finance.AssemblyInfoInputs.cache
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance\obj\Release\netstandard2.0\Finance.AssemblyInfo.cs
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance\obj\Release\netstandard2.0\XamlC.stamp
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance\obj\Release\netstandard2.0\Finance.dll
+E:\XamarinMasterclass\Source-code-App-Center-A-New-Project\Finance\obj\Release\netstandard2.0\Finance.pdb
